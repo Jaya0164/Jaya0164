@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Jaya0164
+- 👀 I’m interested in coding,development,open source,AI desinging and etc...
+- 🌱 I’m currently learning Web Development ....
+- ⚡ Fun fact: I can draw...
+
+<!---
+Jaya0164/Jaya0164 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
